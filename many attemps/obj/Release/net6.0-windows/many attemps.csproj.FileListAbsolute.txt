@@ -1,0 +1,22 @@
+C:\Users\Renz\source\repos\many attemps\many attemps\bin\Release\net6.0-windows\many attemps.exe
+C:\Users\Renz\source\repos\many attemps\many attemps\bin\Release\net6.0-windows\many attemps.dll
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many attemps.csproj.AssemblyReference.cache
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many_attemps.BuyDash_v1.resources
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many_attemps.BuyDash_v2.resources
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many_attemps.Form1.resources
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many_attemps.Form2.resources
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many_attemps.Properties.Resources.resources
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many_attemps.RegFormUC.resources
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many attemps.csproj.GenerateResource.cache
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many attemps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many attemps.AssemblyInfoInputs.cache
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many attemps.AssemblyInfo.cs
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many attemps.csproj.CoreCompileInputs.cache
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many attemps.dll
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\refint\many attemps.dll
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many attemps.pdb
+C:\Users\Renz\source\repos\many attemps\many attemps\bin\Release\net6.0-windows\many attemps.deps.json
+C:\Users\Renz\source\repos\many attemps\many attemps\bin\Release\net6.0-windows\many attemps.runtimeconfig.json
+C:\Users\Renz\source\repos\many attemps\many attemps\bin\Release\net6.0-windows\many attemps.pdb
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\many attemps.genruntimeconfig.cache
+C:\Users\Renz\source\repos\many attemps\many attemps\obj\Release\net6.0-windows\ref\many attemps.dll

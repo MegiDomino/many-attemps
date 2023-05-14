@@ -60,7 +60,8 @@ namespace many_attemps
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-
+            BuyDash_v1 buy1 = new BuyDash_v1();
+            buy1.Show();
         }
 
         private void Form2_Load(object sender, EventArgs e)

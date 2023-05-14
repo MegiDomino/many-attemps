@@ -449,7 +449,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(237)))), ((int)(((byte)(225)))));
             this.ClientSize = new System.Drawing.Size(1264, 681);
-            this.Controls.Add(this.buyDash_v11);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.button2);
@@ -461,6 +460,7 @@
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button3);
+            this.Controls.Add(this.buyDash_v11);
             this.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.Name = "Form1";
             this.Text = "Form1";
