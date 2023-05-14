@@ -7,6 +7,7 @@ namespace many_attemps
             InitializeComponent();
         }
 
+        
         private void label2_Click(object sender, EventArgs e)
         {
             Form2 f2 = new Form2();
@@ -75,6 +76,54 @@ namespace many_attemps
         private void pictureBox5_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel5_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel2_Paint_1(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            buyDash_v11.Show();
+            buyDash_v11.BringToFront();
+
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            buyDash_v11.Hide();
         }
     }
 }
